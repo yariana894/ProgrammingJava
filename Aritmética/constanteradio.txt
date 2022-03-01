@@ -1,0 +1,13 @@
+
+public class nuevo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		double radio = 5;
+		System.out.println("Introduce el radio");
+		
+		double area=Math.PI*(radio)*2;
+	}
+
+}
